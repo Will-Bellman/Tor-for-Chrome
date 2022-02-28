@@ -1,0 +1,6 @@
+{
+    "name": "Tor for Chrome Extension",
+    "description": "Provide access to the Tor network in your Chrome browser!",
+    "version": "In Development",
+    "manifest_version": "3.0"
+}
